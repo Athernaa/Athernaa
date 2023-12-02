@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakki Maulana</h1>
 <h3 align="center">Fivem Server Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athernaa" alt="athernaa" /></a> </p>
-
 - 🔭 My Project [pathem-battleground](https://discord.gg/JZv2eAkTGk)
 
 - 👨‍💻 All of my projects are available at [https://pt.atherna.id](https://pt.atherna.id)
