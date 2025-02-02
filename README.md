@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zakki Maulana</h1>
-<h3 align="center">Fivem Server Developer</h3>
-
-- 🔭 My Project [pathem-battleground](https://discord.gg/JZv2eAkTGk)
-
-- 👨‍💻 All of my projects are available at [https://pt.atherna.id](https://pt.atherna.id)
-
-- 📫 How to reach me **zakkimaulan4@atherna.id**
-
-- ⚡ Fun fact **I am a crazy person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
